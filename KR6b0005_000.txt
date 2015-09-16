@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方便佛報恩經
+#+DATE: 2015-08-30 19:33:27.220397
+#+PROPERTY: JUAN 0
