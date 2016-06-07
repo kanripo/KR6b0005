@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:26.878983
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:49
 #+TITLE: 大方便佛報恩經
 #+PROPERTY: CBETA_ID T03n0156
 #+PROPERTY: ID KR6b0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 156
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0005_T_000-0124a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0005_T_004-0142b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大方便佛報恩經》卷第四¶
+《大方便佛報恩經》卷第四¶
 ¶
-失譯人名在後漢錄¶
+失譯人名在＝出【明】在後漢錄在後漢錄¶
 
-6惡友品
-:PROPERTIES:
-:head: 惡友品第六
-:END:
-¶
+* 惡友品第六¶
 
 爾時世尊，大眾圍遶，供養恭敬，尊重讚歎。爾¶
 時如來熙怡微笑，從其面門放大光明，青黃¶
